@@ -1,0 +1,14 @@
+name,ring,quadrant,isNew,description
+Java,Adopt,Languages & Frameworks,false,Рекомендуется к использованию
+React,Adopt,Languages & Frameworks,false,Рекомендуется к использованию
+Keycloak,Adopt,Platforms,false,Рекомендуется к использованию
+Redis,Adopt,Tools,false,Рекомендуется к использованию
+PostgreSQL,Adopt,Platforms,false,Рекомендуется к использованию
+Grafana / Prometheus,Adopt,Tools,false,Рекомендуется к использованию
+MinIO,Trial,Platforms,true,На этапе тестирования
+Nessie,Trial,Platforms,true,На этапе тестирования
+Dremio,Trial,Platforms,true,На этапе тестирования
+Apache Airflow,Assess,Tools,true,Оценка перспективности
+Microsoft SQL Server 2008,Hold,Platforms,false,"Устаревшие, планируются к замене"
+Power Builder,Hold,Languages & Frameworks,false,"Устаревшие, планируются к замене"
+Apache Camel,Hold,Tools,false,"Устаревшие, планируются к замене"
